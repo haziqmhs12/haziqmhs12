@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Haziq bin Saamsol</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Haziq</h1>
 <h3 align="center">A (not)passionate student from Malaysia</h3>
 
 - 🔭 I’m currently working on **Database**
