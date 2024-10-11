@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Haziq</h1>
-<h3 align="center">A (not)passionate student from Malaysia</h3>
+<h3 align="center">A passionate student from Malaysia</h3>
 
 - 🔭 I’m currently working on **Database**
 
-- 🌱 I’m currently learning **Advance C++, Database ,System Design**
-
-- 📫 How to reach me **207**
-
-- 📄 Know about my experiences [survive 2 semester](survive 2 semester)
+- 🌱 I’m currently learning **C++, Database ,System Design**
 
 - ⚡ Fun fact **I sleep right now**
 
